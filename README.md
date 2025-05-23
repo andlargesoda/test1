@@ -9,3 +9,4 @@
 9. git checkout develop
 10. git branch release
 11. git branch feature
+12. git push -u origin hotfix
